@@ -1,0 +1,21 @@
+Run JavaFX version:
+
+1. Make sure these files exist:
+   C:\Users\q1763\Desktop\javafx-sdk-24.0.2\lib\javafx.controls.jar
+   C:\Users\q1763\Desktop\javafx-sdk-24.0.2\lib\javafx.fxml.jar
+   C:\Users\q1763\Desktop\javafx-sdk-24.0.2\lib\javafx.swing.jar
+
+2. Double click:
+   run_javafx.bat
+
+3. If Windows blocks it, open cmd in this folder and run:
+   run_javafx.bat
+
+4. New finishing files:
+   docs\课程设计报告.md
+   docs\答辩介绍稿.md
+   docs\截图清单.md
+   docs\打包说明.md
+
+5. Screenshots exported by the app will be saved to:
+   screenshots\
